@@ -1,0 +1,11 @@
+Algoritmo proyec
+	Definir num1 Como Entero
+	Definir num2 Como Entero
+	Definir num3 Como Entero
+	Escribir "Escribir el primer numero"
+	leer num1
+	Escribir "Escribir el segundo numero"
+	leer num2
+	num3=num1+num2
+	Escribir num3
+FinAlgoritmo
